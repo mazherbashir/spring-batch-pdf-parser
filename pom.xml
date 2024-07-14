@@ -115,11 +115,7 @@
 			<version>v4-rev3-1.22.0</version>
 		</dependency>
 
-		<dependency>
-			<groupId>com.alok.mqtt</groupId>
-			<artifactId>mqtt-proxy</artifactId>
-			<version>1.0.4</version>
-		</dependency>
+
 	</dependencies>
 
 	<build>
